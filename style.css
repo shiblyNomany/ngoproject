@@ -1,0 +1,32 @@
+ .nav-link active{
+    color:#999;
+ }
+ .nav-link active :hover{
+      color: red;
+      margin-top:1px solid green;
+      margin-bottom:1px solid green;
+
+ }
+ .iframe{
+   position: relative;
+   width: 100%;
+   padding-bottom: 56.25%;
+}
+
+.iframe >*{
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+
+}
+.facebook:hover{
+   color: black;
+   transition: all 2s;
+}
