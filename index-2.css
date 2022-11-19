@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+}
+
+h1{
+    font-family: 'Noto Serif Display', serif;  
+}
+h2{
+    font-family: 'Noto Serif Display', serif;  
+}
+h3{
+    font-family: 'Noto Serif Display', serif;  
+}
+h4{
+    font-family: 'Noto Serif Display', serif;  
+}
+h5{
+    font-family: 'Noto Serif Display', serif;  
+}
+
+p{
+    font-family: 'Noto Serif Display', serif;
+}
+ 
+#logo{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 30px  ;
+}
+.nav-links{
+
+    
+
+}
+#navbar-nav{
+    
+}
+#navbar-nav #tags:hover{
+ 
+}
+#tags{
+    text-transform: uppercase;
+    color: rgb(19, 92, 92);
+    transition: all 1.5s ease;
+}
+#tags:hover{
+    border-top:2px solid rgb(19, 92, 92) ;
+    border-bottom:2px solid rgb(19, 92, 92);
+    color: red;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 25px;
+    background-color:rgb(19, 92, 92),92,92) ;
+}
+#card{
+    transition: all .8s ease-in-out;
+}
+
+#card:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.carousel-inner .carousel-item{
+     height: 500px;
+     background-size: cover;
+     background-position: center center;
+
+
+}
+ 
